@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.1",
+  "description": "ths is my project which is used to handle pw node.js dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "rajnish",
+    "pandey",
+    "my",
+    "project",
+    "pw",
+    "skills"
+  ],
+  "author": "Rajnish Pandey",
+  "license": "ISC"
+}
